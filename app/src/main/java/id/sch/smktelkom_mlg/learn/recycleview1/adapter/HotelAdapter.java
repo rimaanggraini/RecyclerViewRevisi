@@ -29,6 +29,7 @@ public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.ViewHolder> 
         ViewHolder vh = new ViewHolder(v);
         return vh;
 
+
     }
 
     @Override
