@@ -39,7 +39,7 @@ public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.ViewHolder> 
         holder.tvDeskripsi.setText(hotel.deskripsi);
         holder.ivFoto.setImageDrawable(hotel.foto);
 
-        
+
     }
 
     @Override
