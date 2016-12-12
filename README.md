@@ -12,4 +12,4 @@
 
 <h3><b>Nama Sekolah : SMK TELKOM MALANG</b></h3>
 
-![Screnshoot](a.JPG)
+![Screnshoot](a.png)
